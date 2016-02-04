@@ -1,3 +1,9 @@
+rng-tools (5-1struktur0) trusty; urgency=medium
+
+  * Do not run rngd by default.
+
+ -- Simon Eisenmann <simon@struktur.de>  Thu, 04 Feb 2016 10:51:13 +0100
+
 rng-tools (5-0ubuntu3) vivid; urgency=medium
 
   * No-change rebuild for the libgcrypt20 transition.
