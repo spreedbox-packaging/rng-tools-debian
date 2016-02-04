@@ -7,7 +7,7 @@
 # for the initscript to attempt auto-detection.  Set to /dev/null
 # for the viapadlock and tpm drivers.
 #HRNGDEVICE=/dev/hwrng
-#HRNGDEVICE=/dev/null
+HRNGDEVICE=/dev/null
 
 # Additional options to send to rngd. See the rngd(8) manpage for
 # more information.  Do not specify -r/--rng-device here, use
