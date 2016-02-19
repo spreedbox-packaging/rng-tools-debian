@@ -1,3 +1,9 @@
+rng-tools (5-1struktur1) trusty; urgency=medium
+
+  * Rebuild - no changes.
+
+ -- Simon Eisenmann <simon@struktur.de>  Thu, 19 Feb 2016 16:53:34 +0100
+
 rng-tools (5-1struktur0) trusty; urgency=medium
 
   * Do not run rngd by default.
